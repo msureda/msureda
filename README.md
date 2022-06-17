@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msureda
-- 👀 I’m interested in C, C++, Python development.
+- 👀 I’m interested in C, C++ & Python development.
 - 🌱 I’m currently learning Azure pipelines.
 - 💞️ I’m looking to collaborate on anything that catches my interest!
 - 📫 How to reach me: msureda@gmail.com
